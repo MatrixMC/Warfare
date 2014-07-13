@@ -1,0 +1,8 @@
+name: Warfare
+main: com.thematrixmc.warfare.Core
+version: 1
+authors: [gamemster2468, OnesRodriguez]
+description: Gamemode for MatrixMC
+commands:
+    kit:
+        description: KIT TEST
